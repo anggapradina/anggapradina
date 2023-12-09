@@ -5,7 +5,7 @@ Hai!, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 Mobile Engginer
 ---------------
-
+<a ><img src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif" width="100%" height="400" alt="Git" /></a>
 ### Skills
 
 <p align="left">
