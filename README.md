@@ -5,7 +5,7 @@ Saya Angga Pradina
 
 <a><img src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif" width="100%" height="400" alt="Git" /></a>
 
-<p style="text-align: justify;">Saya adalah seorang individu yang menyukai dunia <b>Teknologi Informasi</b> dan memiliki ketertarikan khusus dalam pengembangan perangkat lunak. Saat ini, saya bekerja sebagai <b>Mobile Engineer (Full Stack Development)</b> di Tunas Rent, di mana saya berfokus pada merancang dan menerapkan solusi teknologi yang inovatif. Sebelumnya, saya telah memiliki pengalaman sebagai <b>System Engineer (Web Full Stack Development)</b> di Tunas Rent juga, dimana saya mendapatkan pemahaman yang mendalam tentang pengembangan sistem end-to-end.
+<p align="justify">Saya adalah seorang individu yang menyukai dunia <b>Teknologi Informasi</b> dan memiliki ketertarikan khusus dalam pengembangan perangkat lunak. Saat ini, saya bekerja sebagai <b>Mobile Engineer (Full Stack Development)</b> di Tunas Rent, di mana saya berfokus pada merancang dan menerapkan solusi teknologi yang inovatif. Sebelumnya, saya telah memiliki pengalaman sebagai <b>System Engineer (Web Full Stack Development)</b> di Tunas Rent juga, dimana saya mendapatkan pemahaman yang mendalam tentang pengembangan sistem end-to-end.
 
 Pendidikan saya melibatkan studi di Universitas Darma Persada, dengan fokus pada <b>Teknologi Informasi</b>, dan saya berhasil menyelesaikan program studi pada tahun 2021. Gabungan antara pendidikan dan pengalaman kerja praktis telah membentuk saya menjadi individu yang berkompeten dan berkomitmen untuk memberikan solusi teknologi yang berkualitas tinggi.</p>
 
